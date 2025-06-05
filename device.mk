@@ -403,3 +403,4 @@ PRODUCT_PACKAGES += \
 
 # Inherit from the proprietary files makefile.
 $(call inherit-product, vendor/fxtec/pro1x/pro1x-vendor.mk)
+$(call inherit-product, vendor/lindroid/lindroid.mk)
